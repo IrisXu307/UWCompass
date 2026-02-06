@@ -1,0 +1,1533 @@
+AFM323: 
+AFM324: 
+AFM329: 
+AFM333: 
+AFM334: 
+AFM335: 
+AFM341: 
+AFM345: 
+AFM346: 
+AFM347: 
+AFM362: 
+AFM373: 
+AFM377: 
+AFM382: 
+AFM391: 
+AFM401: 
+AFM415: 
+AFM416: 
+AFM417: 
+AFM418: 
+AFM422: 
+AFM423: Description, Units, Prerequisites, Antirequisites
+AFM424: Description, Units, Prerequisites, Special Consent Required to Add
+AFM425: Description, Units, Prerequisites, Special Consent Required to Add
+AFM426: Description, Units, Prerequisites
+AFM427: Description, Units, Prerequisites, Antirequisites
+AFM428: Description, Units, Prerequisites, Antirequisites
+AFM429: Description, Units, Additional Fees, Notes, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+AFM433: Description, Units, Additional Fees, Notes, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+AFM434: Description, Units, Additional Fees, Notes, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+AFM442: Description, Units, Prerequisites, Antirequisites
+AFM443: Description, Units, Prerequisites
+AFM444: Description, Units, Prerequisites
+AFM445: Description, Units, Prerequisites
+AFM446: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+AFM447: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+AFM448: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM451: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM452: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM462: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM463: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM470: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+AFM477: Description, Units, Prerequisites
+AFM478: Description, Units, Prerequisites, Antirequisites
+AFM479: Description, Units, Prerequisites
+AFM480: Description, Units, Prerequisites
+AFM482: Description, Units, Prerequisites
+AFM483: Description, Units, Prerequisites
+AFM485: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+AFM491: Description, Units, Prerequisites
+ANTH100: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+BIOL308: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL310: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+BIOL325: Description, Units, Prerequisites
+BIOL331: Description, Units, Prerequisites
+BIOL335L: Description, Units, Prerequisites
+BIOL341: Description, Units, Prerequisites, Antirequisites
+BIOL342: Description, Units, Prerequisites
+BIOL345: Description, Units, Prerequisites
+BIOL346: Description, Units, Prerequisites
+BIOL348L: Description, Units, Prerequisites
+BIOL349: Description, Units, Prerequisites
+BIOL350: Description, Units, Prerequisites
+BIOL351: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+BIOL352: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL354: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL355: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL359: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL360: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL361: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+BIOL365: Description, Units, Prerequisites
+BIOL370: Description, Units, Prerequisites, Antirequisites
+BIOL371: Description, Units, Prerequisites, Antirequisites
+BIOL373: Description, Units, Prerequisites, Antirequisites
+BIOL373L: Description, Units, Prerequisites
+BIOL376: Description, Units, Prerequisites
+BIOL382: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Add
+BIOL383: Description, Units, Prerequisites
+BIOL403: Description, Units, Prerequisites
+BIOL414: Description, Units, Prerequisites
+BIOL431: Description, Units, Prerequisites, Antirequisites
+BIOL432: Description, Units, Prerequisites
+BIOL433: Description, Units, Prerequisites
+BIOL434: Description, Units, Prerequisites
+BIOL439: Description, Units, Prerequisites
+BIOL441: Description, Units, Prerequisites
+BIOL442: Description, Units, Prerequisites
+BIOL443: Description, Units, Prerequisites
+BIOL444: Description, Units, Prerequisites
+BIOL447: Description, Units, Prerequisites
+BIOL448: Description, Units, Prerequisites
+BIOL449: Description, Units, Cross-Listed Courses, Prerequisites
+BIOL450: Description, Units
+BIOL451: Description, Units
+BIOL452: Description, Units
+BIOL455: Description, Units
+BIOL456: Description, Units
+BIOL457: Description, Units
+BIOL458: Description, Units
+BIOL461: Description, Units, Prerequisites
+BIOL462: Description, Units, Prerequisites
+BIOL465: Description, Units, Prerequisites
+BIOL469: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Add
+BIOL470: Description, Units, Cross-Listed Courses, Prerequisites
+BIOL472: Description, Units, Prerequisites
+BIOL473: Description, Units, Prerequisites
+BIOL475: Description, Units, Prerequisites
+BIOL476: Description, Units, Prerequisites
+BIOL477L: Description, Units, Prerequisites
+BIOL479: Description, Units, Prerequisites
+BIOL483: Description, Units, Prerequisites
+BIOL484: Description, Units, Prerequisites
+BIOL485: Description, Units, Prerequisites, Antirequisites
+BIOL487: Description, Units, Prerequisites, Antirequisites
+BIOL489: Description, Units, Cross-Listed Courses, Prerequisites
+BIOL490A: Description, Units, Prerequisites
+BIOL490B: Description, Units, Prerequisites
+BIOL490C: Description, Units, Prerequisites, Antirequisites
+BIOL490D: Description, Units, Additional Fees, Prerequisites
+BIOL498A: Description, Units, Prerequisites
+BIOL498B: Description, Units, Prerequisites
+BIOL499A: Description, Units, Prerequisites
+BIOL499B: Description, Units, Prerequisites
+BME530: Description, Units, Prerequisites
+BME551: Description, Units, Prerequisites
+BME552: Description, Units, Prerequisites
+BME564: Description, Units, Prerequisites
+CHE100: Description, Units, Prerequisites
+CHE425: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE483: Description, Units, Prerequisites
+CHE490: Description, Units, Prerequisites
+CHE491: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+CHE499: Description, Units, Prerequisites
+CHE500: Description, Units, Prerequisites
+CHE514: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE516: Description, Units, Prerequisites
+CHE520: Description, Units, Prerequisites
+CHE521: Description, Units, Prerequisites, Antirequisites
+CHE522: Description, Units, Cross-Listed Courses, Prerequisites
+CHE524: Description, Units, Prerequisites
+CHE541: Description, Units, Prerequisites, Special Consent Required to Add
+CHE543: Description, Units, Prerequisites, Special Consent Required to Drop
+CHE560: Description, Units, Prerequisites
+CHE561: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE562: Description, Units, Prerequisites
+CHE564: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE565: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE571: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHE572: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM267L: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM310: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM313L: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM323: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM331: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+CHEM333: Description, Units, Prerequisites
+CHEM335L: Description, Units, Prerequisites
+CHEM340: Description, Units, Prerequisites, Special Consent Required to Drop
+CHEM350: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+CHEM350L: Description, Units, Prerequisites
+CHEM356: Description, Units, Prerequisites
+CHEM357: Description, Units, Prerequisites
+CHEM360: Description, Units, Prerequisites
+CHEM360L: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM363: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+CHEM370: Description, Units, Prerequisites
+CHEM381: Description, Units, Prerequisites, Antirequisites
+CHEM382L: Description, Units, Prerequisites, Antirequisites
+CHEM383: Description, Units, Prerequisites, Antirequisites
+CHEM392A: Description, Units, Prerequisites, Special Consent Required to Drop
+CHEM392B: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Add
+CHEM400: Description, Units, Prerequisites
+CHEM404: Description, Units, Prerequisites, Special Consent Required to Drop
+CHEM430: Description, Units, Prerequisites
+CHEM432: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+CHEM433: Description, Units, Prerequisites
+CHEM464: Description, Units, Prerequisites
+CHEM481: Description, Units, Prerequisites
+CHEM494A: Description, Units, Prerequisites
+CHEM494B: Description, Units, Prerequisites
+CHEM495: Description, Units, Prerequisites
+CHEM496: Description, Units, Prerequisites
+CHEM497: Description, Units, Prerequisites
+CLAS100: Description, Units, Prerequisites
+CO227: Description, Units, Prerequisites, Antirequisites
+COMMST100: Description, Units, Prerequisites, Antirequisites
+CS240E: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Add
+CS245E: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+CS246: Description, Units, Prerequisites
+CS246E: Description, Units, Cross-Listed Courses, Prerequisites
+CS247: Description, Units, Prerequisites, Antirequisites
+CS251: Description, Units, Prerequisites
+CS251E: Description, Units, Prerequisites
+CS330: Description, Units, Prerequisites
+CS335: Description, Units, Prerequisites
+CS338: Description, Units, Prerequisites
+CS341: Description, Units, Prerequisites
+CS343: Description, Units, Prerequisites
+CS346: Description, Units, Prerequisites
+CS348: Description, Units, Prerequisites, Antirequisites
+CS349: Description, Units, Prerequisites, Antirequisites
+CS350: Description, Units, Prerequisites, Corequisites, Antirequisites
+CS360: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+CS365: Description, Units, Prerequisites
+CS370: Description, Units, Prerequisites
+CS371: Description, Units, Prerequisites, Antirequisites
+CS383: Description, Units, Prerequisites, Antirequisites
+CS398: Description, Units, Prerequisites, Antirequisites
+CS399: Description, Units, Prerequisites, Antirequisites
+CS430: Description, Units, Prerequisites, Antirequisites
+CS431: Description, Units, Prerequisites, Antirequisites
+CS436: Description, Units, Special Consent Required to Add
+CS442: Description, Units, Prerequisites, Corequisites
+CS444: Description, Units, Prerequisites
+CS445: Description, Units, Prerequisites
+CS446: Description, Units, Prerequisites, Antirequisites
+CS447: Description, Units, Prerequisites, Antirequisites
+CS448: Description, Units, Prerequisites, Antirequisites
+CS449: Description, Units, Prerequisites
+CS450: Description, Units, Prerequisites, Special Consent Required to Add
+CS451: Description, Units, Prerequisites, Special Consent Required to Add
+CS452: Description, Units
+CS453: Description, Units, Prerequisites, Corequisites, Antirequisites
+CS454: Description, Units, Prerequisites
+CS456: Description, Units, Prerequisites
+CS457: Description, Units, Prerequisites
+CS459: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+CS462: Description, Units, Prerequisites, Antirequisites
+CS466: Description, Units, Prerequisites, Antirequisites
+CS467: Description, Units, Prerequisites, Antirequisites
+CS475: Description, Units, Prerequisites, Antirequisites
+CS476: Description, Units, Prerequisites, Antirequisites
+CS479: Description, Units, Prerequisites, Antirequisites
+CS480: Description, Units, Prerequisites, Antirequisites
+CS482: Description, Units, Prerequisites
+CS484: Description, Units, Prerequisites
+CS485: Description, Units, Prerequisites, Corequisites, Antirequisites
+CS486: Description, Units, Prerequisites, Antirequisites
+CS487: Description, Units, Prerequisites, Antirequisites
+CS488: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+CS489: Description, Units, Prerequisites, Antirequisites
+CS490: Description, Units, Prerequisites, Antirequisites
+CS492: Description, Units, Cross-Listed Courses, Prerequisites, Corequisites
+CS493: Description, Units, Prerequisites
+CS494: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+CS497: Description, Units, Prerequisites
+CS499R: Description, Units, Cross-Listed Courses, Prerequisites
+CS499T: Description, Units, Prerequisites
+ECON100: Description, Units, Prerequisites
+ECON361: Description, Units, Prerequisites
+ECON363: Description, Units, Prerequisites, Antirequisites
+ECON371: Description, Units, Prerequisites, Antirequisites
+ECON372: Description, Units, Prerequisites
+ECON381: Description, Units, Prerequisites
+ECON382: Description, Units, Prerequisites
+ECON391: Description, Units, Prerequisites
+ECON392: Description, Units, Prerequisites
+ECON393: Description, Units, Prerequisites
+ECON406: Description, Units, Prerequisites
+ECON407: Description, Units, Prerequisites
+ECON408: Description, Units, Prerequisites
+ECON409: Description, Units, Prerequisites
+ECON412: Description, Units, Prerequisites, Antirequisites
+ECON421: Description, Units, Prerequisites, Antirequisites
+ECON422: Description, Units, Prerequisites, Antirequisites
+ECON423: Description, Units, Prerequisites, Antirequisites
+ECON424: Description, Units, Prerequisites, Corequisites, Antirequisites
+ECON425: Description, Units, Prerequisites
+ECON436: Description, Units, Prerequisites
+ECON437: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+ECON441: Description, Units, Prerequisites
+ECON443: Description, Units, Prerequisites
+ECON445: Description, Units, Prerequisites
+ECON451: Description, Units, Prerequisites
+ECON452: Description, Units, Prerequisites
+ECON456: Description, Units, Prerequisites
+ECON457: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ECON458: Description, Units, Cross-Listed Courses, Prerequisites
+ECON467: Description, Units, Prerequisites, Antirequisites
+ECON472: Description, Units, Prerequisites
+ECON474: Description, Units, Prerequisites
+ECON483: Description, Units, Prerequisites
+ECON484: Description, Units, Prerequisites
+ECON487: Description, Units, Prerequisites
+ECON488: Description, Units, Prerequisites
+ECON489: Description, Units, Prerequisites
+ECON491: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ECON496: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ECE101A: Description, Units, Prerequisites
+ECE205: Description, Units, Prerequisites
+ECE206: Description, Units, Prerequisites
+ECE208: Description, Units, Prerequisites, Antirequisites
+ECE222: Description, Units, Prerequisites, Special Consent Required to Add
+ECE224: Description, Units, Prerequisites, Special Consent Required to Add
+ECE231: Description, Units, Prerequisites, Special Consent Required to Add
+ECE240: Description, Units, Prerequisites
+ECE250: Description, Units, Prerequisites
+ECE252: Description, Units, Prerequisites
+ECE260: Description, Units, Prerequisites
+ECE298: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ECE301: Description, Units, Prerequisites
+ECE302: Description, Units, Prerequisites, Antirequisites
+ECE305: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ECE307: Description, Units, Prerequisites
+ECE313: Description, Units, Prerequisites
+ECE318: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Drop
+ECE320: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Drop
+ECE327: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE331: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE340: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE350: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE351: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE356: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE358: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE360: Description, Units, Prerequisites
+ECE373: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE375: Description, Units, Special Course Grading, Prerequisites
+ECE380: Description, Units, Special Course Grading, Prerequisites
+ECE401: Description, Units, Special Course Grading, Prerequisites
+ECE402: Description, Units, Prerequisites
+ECE403: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE404: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE405A: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE405B: Description, Units, Prerequisites, Corequisites, Special Consent Required to Drop
+ECE405C: Description, Units, Notes, Prerequisites, Antirequisites
+ECE405D: Description, Units, Notes, Prerequisites, Antirequisites
+ECE406: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE409: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ECE414: Description, Units, Special Course Grading, Prerequisites
+ECE416: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE417: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE423: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE432: Description, Units, Prerequisites
+ECE433: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE444: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE445: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE451: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE452: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE453: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE454: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE455: Description, Units, Notes, Prerequisites
+ECE457A: Description, Units, Prerequisites, Special Consent Required to Drop
+ECE457B: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE457C: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE458: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE459: Description, Units, Prerequisites, Antirequisites
+ECE462: Description, Units, Prerequisites, Antirequisites
+ECE463: Description, Units, Prerequisites, Antirequisites
+ECE464: Description, Units, Prerequisites, Antirequisites
+ECE467: Description, Units, Prerequisites, Antirequisites
+ECE474: Description, Units, Notes, Prerequisites, Antirequisites
+ECE475: Description, Units, Prerequisites
+ECE477: Description, Units, Prerequisites, Antirequisites
+ECE481: Description, Units, Prerequisites, Antirequisites
+ECE484: Description, Units, Prerequisites, Antirequisites
+ECE486: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE488: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE493: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE495: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE498A: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE498B: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ECE499: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ENGL100A: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ENGL101A: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ENGL101B: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ENGL103: Description, Units, Prerequisites
+ENGL104: Description, Units, Prerequisites
+ENGL107: Description, Units, Prerequisites
+ENGL108A: Description, Units, Prerequisites
+ENGL108B: Description, Units, Prerequisites
+ENGL108D: Description, Units, Prerequisites
+ENGL108E: Description, Units, Prerequisites
+ENGL108F: Description, Units, Prerequisites, Antirequisites
+ENGL108G: Description, Units, Prerequisites, Antirequisites
+ENGL108P: Description, Units, Prerequisites
+ENGL108T: Description, Units, Prerequisites
+ENGL108X: Description, Units, Prerequisites, Antirequisites
+ENGL109: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL119: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL129R: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL132R: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL140R: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL190: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL191: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL192: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL193: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL200A: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL200B: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL200C: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL201: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL202A: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL202B: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL203: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL204: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL205R: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL206: Description, Units, Total Completions Allowed (Subject to Different Content), Prerequisites, Antirequisites
+ENGL208A: Description, Units, Cross-Listed Courses
+ENGL208B: Description, Units
+ENGL208C: Description, Units, Cross-Listed Courses, Antirequisites
+ENGL208E: Description, Units, Cross-Listed Courses, Antirequisites
+ENGL208G: Description, Units
+ENGL208K: Description, Units, Prerequisites, Antirequisites
+ENGL208L: Description, Units, Prerequisites, Antirequisites
+ENGL208M: Description, Units, Prerequisites, Antirequisites
+ENGL208N: Description, Units, Prerequisites, Antirequisites
+ENGL209: Description, Units, Prerequisites, Antirequisites
+ENGL210C: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ENGL210E: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ENGL210F: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ENGL210G: Description, Units
+ENGL210H: Description, Units
+ENGL210I: Description, Units
+ENGL210J: Description, Units
+ENGL211: Description, Units, Prerequisites, Special Consent Required to Drop
+ENGL213: Description, Units
+ENGL217: Description, Units, Prerequisites
+ENGL221: Description, Units, Prerequisites
+ENGL222: Description, Units, Prerequisites
+ENGL225: Description, Units, Prerequisites
+ENGL230: Description, Units, Prerequisites
+ENGL232: Description, Units, Prerequisites
+ENGL233: Description, Units, Prerequisites
+ENGL234: Description, Units, Prerequisites
+ENGL240R: Description, Units, Prerequisites
+ENGL241R: Description, Units, Prerequisites
+ENGL242: Description, Units, Prerequisites
+ENGL243: Description, Units
+ENGL247: Description, Units
+ENGL248: Description, Units, Prerequisites
+ENGL251: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ENGL262: Description, Units, Prerequisites, Special Consent Required to Drop
+ENGL275: Description, Units
+ENGL280: Description, Units, Cross-Listed Courses, Antirequisites
+ENGL290: Description, Units, Prerequisites
+ENGL291: Description, Units, Prerequisites, Special Consent Required to Add
+ENGL292: Description, Units, Prerequisites, Special Consent Required to Add
+ENGL293: Description, Units
+ENGL294: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ENGL295: Description, Units, Cross-Listed Courses
+ENGL303: Description, Units, Prerequisites
+ENGL304: Description, Units
+ENGL305A: Description, Units
+ENGL305B: Description, Units, Cross-Listed Courses, Prerequisites
+ENGL306A: Description, Units
+ENGL306B: Description, Units
+ENGL306D: Description, Units
+ENGL306F: Description, Units
+ENGL306G: Description, Units
+ENGL307: Description, Units
+ENGL308: Description, Units
+ENGL309A: Description, Units
+ENGL309C: Description, Units
+ENGL309E: Description, Units
+ENGL309G: Description, Units
+ENGL310A: Description, Units
+ENGL310B: Description, Units
+ENGL313: Description, Units
+ENGL315: Description, Units
+ENGL316: Description, Units
+ENGL318: Description, Units
+ENGL319: Description, Units
+ENGL320: Description, Units, Prerequisites
+ENGL322: Description, Units
+ENGL324: Description, Units
+ENGL325: Description, Units
+ENGL326: Description, Units
+ENGL327: Description, Units, Cross-Listed Courses
+ENGL328: Description, Units, Cross-Listed Courses
+ENGL330A: Description, Units, Cross-Listed Courses
+ENGL330B: Description, Units, Cross-Listed Courses
+ENGL335: Description, Units, Cross-Listed Courses
+ENGL336: Description, Units, Cross-Listed Courses
+ENGL340: Description, Units, Cross-Listed Courses
+ENGL342: Description, Units, Cross-Listed Courses
+ENGL343: Description, Units, Prerequisites
+ENGL344: Description, Units
+ENGL345: Description, Units
+ENGL346: Description, Units, Cross-Listed Courses, Prerequisites
+ENGL346R: Description, Units, Prerequisites
+ENGL347: Description, Units
+ENGL348: Description, Units
+ENGL350A: Description, Units
+ENGL350B: Description, Units
+ENGL361: Description, Units
+ENGL362: Description, Units
+ENGL363: Description, Units
+ENGL364: Description, Units
+ENGL365: Description, Units
+ENGL366: Description, Units
+ENGL367: Description, Units
+ENGL371: Description, Units
+ENGL372: Description, Units
+ENGL373: Description, Units, Prerequisites
+ENGL375: Description, Units, Prerequisites
+ENGL378: Description, Units, Prerequisites
+ENGL381: Description, Units, Prerequisites
+ENGL383: Description, Units
+ENGL392A: Description, Units, Prerequisites
+ENGL392B: Description, Units
+ENGL403: Description, Units
+ENGL405: Description, Units, Prerequisites
+ENGL406: Description, Units
+ENGL407: Description, Units
+ENGL408A: Description, Units, Prerequisites
+ENGL408B: Description, Units, Prerequisites
+ENGL408C: Description, Units, Prerequisites
+ENGL409A: Description, Units, Prerequisites
+ENGL410: Description, Units, Prerequisites
+ENGL411: Description, Units, Prerequisites
+ENGL412: Description, Units, Prerequisites
+ENGL425: Description, Units, Prerequisites
+ENGL430A: Description, Units, Prerequisites
+ENGL430B: Description, Units, Prerequisites
+ENGL432: Description, Units, Prerequisites
+ENGL451A: Description, Units
+ENGL451B: Description, Units, Prerequisites
+ENGL460A: Description, Units, Prerequisites
+ENGL460B: Description, Units, Prerequisites
+ENGL460C: Description, Units, Prerequisites
+ENGL460D: Description, Units, Prerequisites
+ENGL461: Description, Units, Prerequisites
+ENGL463: Description, Units, Prerequisites
+ENGL470A: Description, Units, Prerequisites
+ENGL470B: Description, Units, Cross-Listed Courses, Prerequisites
+ENGL470C: Description, Units, Prerequisites
+ENGL471: Description, Units, Prerequisites
+ENGL472: Description, Units, Prerequisites
+ENGL481: Description, Units, Cross-Listed Courses, Prerequisites
+ENGL484: Description, Units, Prerequisites
+ENGL485: Description, Units, Prerequisites
+ENGL486: Description, Units, Prerequisites
+ENGL491: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ENGL492: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ENGL493: Description, Units, Prerequisites
+ENGL494: Description, Units, Prerequisites
+ENGL495A: Description, Units, Special Consent Required to Add
+ENGL495B: Description, Units, Prerequisites
+ENVS105: Description, Units, Prerequisites
+ERS101: Description, Units, Prerequisites
+ERS337: Description, Units, Cross-Listed Courses, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS340: Description, Units, Prerequisites
+ERS342: Description, Units, Prerequisites
+ERS346: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS361: Description, Units, Prerequisites
+ERS365: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS370: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS372: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS373: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS374: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS375: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS382: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS383: Description, Units, Prerequisites
+ERS400: Description, Units, Cross-Listed Courses, Prerequisites
+ERS401: Description, Units, Prerequisites
+ERS402: Description, Units, Prerequisites
+ERS403A: Description, Units, Notes, Special Consent Required to Add
+ERS403B: Description, Units, Notes, Special Consent Required to Add
+ERS404: Description, Units, Notes, Special Consent Required to Add
+ERS406: Description, Units, Prerequisites
+ERS415: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS422: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ERS431: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+ERS443: Description, Units, Prerequisites
+ERS446: Description, Units, Prerequisites
+ERS454: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS456: Description, Units, Prerequisites
+ERS460: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+ERS462: Description, Units, Prerequisites
+ERS473: Description, Units, Prerequisites
+ERS474: Description, Units, Prerequisites
+ERS475: Description, Units, Prerequisites
+ERS484: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+ENVE100: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+FINE312: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+FINE343: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+FINE344: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+FINE363: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+FINE364: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+FINE383: Description, Units, Prerequisites
+FINE392: Description, Units, Prerequisites
+FINE402: Description, Units, Prerequisites
+FINE407: Description, Units, Cross-Listed Courses, Prerequisites
+FINE472: Description, Units, Prerequisites
+GSJ101: Description, Units, Prerequisites
+GEOG100: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+GEOG102: Description, Units, Notes, Special Consent Required to Add
+GEOG225: Description, Units, Cross-Listed Courses
+GEOG274: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+GEOG281: Description, Units, Additional Fees, Prerequisites, Antirequisites, Special Consent Required to Add
+GEOG293: Description, Units, Prerequisites
+GEOG294: Description, Units, Cross-Listed Courses, Notes, Prerequisites
+GEOG300: Description, Units, Prerequisites
+GEOG302: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG303: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+GEOG304: Description, Units, Prerequisites
+GEOG305: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+GEOG306: Description, Units, Additional Fees, Prerequisites
+GEOG307: Description, Units
+GEOG309: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG310: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG311: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG314: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG316: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG318: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG319: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG320: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+GEOG323: Description, Units, Additional Fees, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+GEOG325: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG336: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+GEOG349: Description, Units, Additional Fees, Prerequisites
+GEOG351: Description, Units, Additional Fees, Prerequisites
+GEOG356: Description, Units, Additional Fees, Prerequisites
+GEOG357: Description, Units, Prerequisites
+GEOG359: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+GEOG361: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG368: Description, Units, Prerequisites, Special Consent Required to Add
+GEOG371: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+GEOG374: Description, Units, Additional Fees, Prerequisites
+GEOG381: Description, Units, Prerequisites
+GEOG387: Description, Units, Prerequisites
+GEOG391: Description, Units, Cross-Listed Courses, Notes, Prerequisites
+GEOG392: Description, Units, Cross-Listed Courses, Prerequisites, Special Consent Required to Drop
+GEOG403: Description, Units, Additional Fees, Special Course Grading, Prerequisites, Special Consent Required to Add
+GEOG404: Description, Units, Prerequisites
+GEOG405: Description, Units, Prerequisites
+GEOG407: Description, Units, Prerequisites
+GEOG408: Description, Units, Cross-Listed Courses
+GEOG409: Description, Units, Cross-Listed Courses
+GEOG411: Description, Units, Cross-Listed Courses
+GEOG414: Description, Units, Cross-Listed Courses
+GEOG415: Description, Units, Cross-Listed Courses
+GEOG416: Description, Units, Cross-Listed Courses
+GEOG417: Description, Units, Cross-Listed Courses
+GEOG418: Description, Units, Prerequisites
+GEOG420: Description, Units, Prerequisites
+GEOG423: Description, Units, Prerequisites
+GEOG426: Description, Units, Additional Fees, Prerequisites
+GEOG428: Description, Units, Prerequisites
+GEOG430A: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG430B: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG430C: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG432: Description, Units, Prerequisites
+GEOG436: Description, Units, Prerequisites
+GEOG452: Description, Units, Prerequisites
+GEOG453: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG456: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+GEOG457: Description, Units, Prerequisites
+GEOG459: Description, Units, Prerequisites, Antirequisites
+GEOG460: Description, Units, Prerequisites, Antirequisites
+GEOG462: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG471: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG474: Description, Units, Prerequisites
+GEOG475: Description, Units, Cross-Listed Courses, Prerequisites
+GEOG476: Description, Units, Cross-Listed Courses
+GEOG481: Description, Units, Prerequisites
+GEOG483: Description, Units, Prerequisites
+GEOG484: Description, Units, Prerequisites
+GEOG487: Description, Units, Prerequisites
+GEOG490A: Description, Units, Prerequisites
+GEOG490B: Description, Units, Prerequisites
+GBDA101: Description, Units, Prerequisites
+HIST101: Description, Units, Prerequisites
+HIST200: Description, Units, Prerequisites
+HIST203: Description, Units, Prerequisites
+HIST205: Description, Units, Cross-Listed Courses, Prerequisites
+HIST206: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+HIST207: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+HIST208: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+HIST209: Description, Units, Additional Fees, Prerequisites
+HIST210: Description, Units, Cross-Listed Courses, Prerequisites
+HIST212: Description, Units, Prerequisites
+HIST213: Description, Units, Prerequisites
+HIST216: Description, Units, Cross-Listed Courses, Prerequisites
+HIST220: Description, Units, Cross-Listed Courses, Prerequisites
+HIST221: Description, Units, Prerequisites
+HIST223: Description, Units, Prerequisites
+HIST224: Description, Units, Cross-Listed Courses, Prerequisites
+HIST225: Description, Units, Prerequisites
+HIST226: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+HIST227: Description, Units, Prerequisites, Antirequisites
+HIST230: Description, Units, Prerequisites
+HIST231R: Description, Units, Prerequisites
+HIST232: Description, Units, Prerequisites
+HIST233: Description, Units
+HIST234: Description, Units
+HIST235: Description, Units
+HIST236: Description, Units
+HIST237: Description, Units
+HIST238: Description, Units
+HIST239: Description, Units
+HIST242: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+HIST246: Description, Units
+HIST247: Description, Units, Prerequisites
+HIST250: Description, Units
+HIST252: Description, Units, Additional Fees, Prerequisites
+HIST253: Description, Units
+HIST254: Description, Units
+HIST255: Description, Units, Cross-Listed Courses, Prerequisites
+HIST256: Description, Units, Antirequisites
+HIST257: Description, Units, Antirequisites
+HIST258: Description, Units
+HIST260: Description, Units, Antirequisites
+HIST262: Description, Units
+HIST263: Description, Units, Cross-Listed Courses
+HIST265: Description, Units, Cross-Listed Courses
+HIST266: Description, Units, Cross-Listed Courses, Prerequisites
+HIST268: Description, Units
+HIST269: Description, Units
+HIST271: Description, Units, Prerequisites
+HIST274: Description, Units, Prerequisites
+HIST275: Description, Units
+HIST277: Description, Units
+HIST278: Description, Units
+HIST282: Description, Units, Cross-Listed Courses
+HIST291: Description, Units, Cross-Listed Courses
+HIST302: Description, Units, Cross-Listed Courses
+HIST303: Description, Units, Cross-Listed Courses
+HIST304: Description, Units, Cross-Listed Courses
+HIST305: Description, Units, Cross-Listed Courses
+HIST309: Description, Units, Cross-Listed Courses
+HIST311: Description, Units, Cross-Listed Courses, Prerequisites
+HIST312: Description, Units, Prerequisites, Antirequisites
+HIST313: Description, Units, Cross-Listed Courses, Prerequisites
+HIST314: Description, Units, Prerequisites
+HIST315: Description, Units
+HIST316: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+HIST317: Description, Units, Prerequisites
+HIST318: Description, Units, Prerequisites, Antirequisites
+HIST319: Description, Units, Cross-Listed Courses
+HIST321: Description, Units
+HIST322: Description, Units, Prerequisites
+HIST323: Description, Units, Prerequisites
+HIST324: Description, Units, Prerequisites
+HIST327: Description, Units, Prerequisites
+HIST328: Description, Units, Cross-Listed Courses
+HIST329: Description, Units, Cross-Listed Courses
+HIST330: Description, Units
+HIST341: Description, Units, Prerequisites
+HIST342: Description, Units, Cross-Listed Courses, Prerequisites
+HIST347: Description, Units
+HIST348: Description, Units, Cross-Listed Courses
+HIST349: Description, Units
+HIST350: Description, Units, Antirequisites
+HIST351: Description, Units, Cross-Listed Courses, Prerequisites
+HIST356: Description, Units, Cross-Listed Courses, Prerequisites
+HIST357: Description, Units, Cross-Listed Courses, Prerequisites
+HIST358: Description, Units, Cross-Listed Courses, Prerequisites
+HIST359: Description, Units, Cross-Listed Courses, Prerequisites
+HIST368: Description, Units, Cross-Listed Courses, Prerequisites
+HIST369: Description, Units, Cross-Listed Courses, Prerequisites
+HIST370: Description, Units
+HIST371: Description, Units
+HIST372: Description, Units, Cross-Listed Courses, Prerequisites
+HIST374: Description, Units, Cross-Listed Courses, Prerequisites
+HIST377R: Description, Units, Prerequisites
+HIST379: Description, Units, Prerequisites
+HIST380: Description, Units, Cross-Listed Courses
+HIST385: Description, Units
+HIST388: Description, Units, Prerequisites
+HIST389: Description, Units, Prerequisites, Antirequisites
+HIST391: Description, Units, Prerequisites, Antirequisites
+HIST397: Description, Units
+HIST398: Description, Units, Prerequisites
+HIST421: Description, Units
+HIST422: Description, Units, Prerequisites
+HIST423: Description, Units, Prerequisites
+HIST450: Description, Units, Cross-Listed Courses, Prerequisites
+HIST491: Description, Units, Prerequisites
+KIN100: Description, Units, Prerequisites
+KIN308: Description, Units, Cross-Listed Courses, Prerequisites
+KIN312: Description, Units, Cross-Listed Courses, Prerequisites
+KIN314: Description, Units, Cross-Listed Courses
+KIN320: Description, Units, Cross-Listed Courses
+KIN326: Description, Units, Cross-Listed Courses
+KIN327: Description, Units, Special Consent Required to Add
+KIN340: Description, Units, Special Consent Required to Add
+KIN342: Description, Units, Special Consent Required to Add
+KIN343: Description, Units, Special Consent Required to Add
+KIN346: Description, Units, Special Consent Required to Add
+KIN351: Description, Units, Special Consent Required to Add
+KIN352: Description, Units
+KIN354: Description, Units, Prerequisites, Special Consent Required to Add
+KIN356: Description, Units, Prerequisites
+KIN357: Description, Units, Cross-Listed Courses, Prerequisites
+KIN359: Description, Units, Prerequisites
+KIN360: Description, Units, Prerequisites
+KIN390: Description, Units, Prerequisites
+KIN391: Description, Units, Cross-Listed Courses
+KIN397: Description, Units, Prerequisites
+KIN400: Description, Units, Prerequisites
+KIN402: Description, Units
+KIN403: Description, Units
+KIN404: Description, Units, Prerequisites
+KIN406: Description, Units, Prerequisites
+KIN407: Description, Units, Prerequisites
+KIN415: Description, Units
+KIN416: Description, Units, Prerequisites, Special Consent Required to Add
+KIN418: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+KIN420: Description, Units, Prerequisites
+KIN422: Description, Units, Cross-Listed Courses, Prerequisites
+KIN425: Description, Units, Cross-Listed Courses
+KIN427: Description, Units, Prerequisites, Antirequisites
+KIN428: Description, Units, Prerequisites, Antirequisites
+KIN429: Description, Units, Prerequisites, Antirequisites
+KIN431: Description, Units, Prerequisites, Antirequisites
+KIN432: Description, Units, Prerequisites, Antirequisites
+KIN433: Description, Units, Prerequisites, Antirequisites
+KIN446: Description, Units
+KIN453: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+KIN455: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+KIN459: Description, Units, Prerequisites, Special Consent Required to Add
+KIN470: Description, Units, Prerequisites, Special Consent Required to Add
+KIN471: Description, Units, Prerequisites, Antirequisites
+KIN472: Description, Units, Prerequisites, Special Consent Required to Add
+KIN491: Description, Units, Prerequisites
+KIN492: Description, Units, Prerequisites
+KIN493: Description, Units, Prerequisites
+LS101: Description, Units, Prerequisites
+LS229: Description, Units, Prerequisites
+LS240: Description, Units, Prerequisites, Special Consent Required to Add
+LS250: Description, Units, Prerequisites
+LS272: Description, Units, Prerequisites
+LS273: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Add
+LS280: Description, Units, Prerequisites
+LS283: Description, Units, Prerequisites
+LS286: Description, Units, Prerequisites
+LS291: Description, Units, Prerequisites
+LS292: Description, Units, Prerequisites
+LS300: Description, Units, Prerequisites
+LS301: Description, Units
+LS305: Description, Units
+LS306: Description, Units
+LS315: Description, Units
+LS319: Description, Units
+LS322: Description, Units
+LS325: Description, Units
+LS326: Description, Units, Cross-Listed Courses
+LS327: Description, Units, Cross-Listed Courses, Prerequisites
+LS328: Description, Units, Prerequisites
+LS329: Description, Units, Prerequisites
+LS330: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+LS331: Description, Units, Cross-Listed Courses
+LS342: Description, Units, Prerequisites
+LS344: Description, Units, Prerequisites
+LS348: Description, Units, Prerequisites
+LS350: Description, Units, Cross-Listed Courses, Prerequisites
+LS351: Description, Units, Cross-Listed Courses, Prerequisites
+LS352: Description, Units, Cross-Listed Courses, Prerequisites
+LS363: Description, Units, Cross-Listed Courses, Prerequisites
+LS364: Description, Units, Cross-Listed Courses
+LS366: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+LS372: Description, Units, Prerequisites
+LS373: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+LS374: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+LS386: Description, Units, Cross-Listed Courses, Antirequisites
+LS387: Description, Units, Cross-Listed Courses, Prerequisites
+LS401: Description, Units, Cross-Listed Courses
+LS402: Description, Units, Prerequisites
+LS403: Description, Units, Prerequisites
+LS404: Description, Units, Prerequisites
+LS405: Description, Units, Prerequisites
+LS409: Description, Units, Prerequisites
+LS410: Description, Units, Prerequisites
+LS413: Description, Units, Prerequisites
+LS419: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+LS422: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+LS423: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+LS425: Description, Units, Prerequisites
+LS426: Description, Units, Cross-Listed Courses, Prerequisites
+LS428: Description, Units, Cross-Listed Courses, Prerequisites
+LS431: Description, Units, Cross-Listed Courses, Prerequisites
+LS433: Description, Units, Cross-Listed Courses, Prerequisites
+LS434: Description, Units, Cross-Listed Courses, Prerequisites
+LS435: Description, Units, Cross-Listed Courses, Antirequisites
+LS461: Description, Units, Cross-Listed Courses, Antirequisites
+LS462: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+LS463: Description, Units, Prerequisites
+LS464: Description, Units, Cross-Listed Courses, Prerequisites
+LS471: Description, Units, Prerequisites, Antirequisites
+LS492: Description, Units, Cross-Listed Courses, Prerequisites
+LS496: Description, Units, Cross-Listed Courses, Prerequisites
+LS498: Description, Units, Cross-Listed Courses, Prerequisites
+MSE100: Description, Units, Cross-Listed Courses, Prerequisites
+MSE100B: Description, Units, Cross-Listed Courses, Prerequisites
+MSE402: Description, Units, Prerequisites
+MSE432: Description, Units, Cross-Listed Courses, Prerequisites
+MSE433: Description, Units, Cross-Listed Courses, Prerequisites
+MSE435: Description, Units, Cross-Listed Courses, Prerequisites
+MSE436: Description, Units, Cross-Listed Courses, Prerequisites
+MSE442: Description, Units, Cross-Listed Courses, Prerequisites
+MSE452: Description, Units, Cross-Listed Courses, Prerequisites
+MSE454: Description, Units, Cross-Listed Courses, Prerequisites
+MSE491: Description, Units, Cross-Listed Courses, Prerequisites
+MSE531: Description, Units, Cross-Listed Courses, Prerequisites
+MSE541: Description, Units, Cross-Listed Courses, Prerequisites
+MSE543: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+MSE551: Description, Units, Cross-Listed Courses, Prerequisites
+ME100: Description, Units, Cross-Listed Courses, Prerequisites
+ME353: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+ME354: Description, Units, Prerequisites
+ME380: Description, Units, Cross-Listed Courses, Prerequisites
+ME400A: Description, Units, Prerequisites
+ME400B: Description, Units, Prerequisites
+ME423: Description, Units, Prerequisites
+ME435: Description, Units, Cross-Listed Courses, Prerequisites
+ME436: Description, Units, Cross-Listed Courses, Prerequisites
+ME452: Description, Units, Prerequisites, Special Consent Required to Drop
+ME456: Description, Units, Cross-Listed Courses, Prerequisites
+ME459: Description, Units, Prerequisites
+ME481: Description, Units, Prerequisites
+ME482: Description, Units, Cross-Listed Courses, Prerequisites
+ME524: Description, Units, Prerequisites, Special Consent Required to Drop
+ME526: Description, Units, Prerequisites, Special Consent Required to Drop
+ME531: Description, Units, Prerequisites
+ME533: Description, Units, Cross-Listed Courses, Prerequisites
+ME535: Description, Units, Cross-Listed Courses, Prerequisites
+ME538: Description, Units, Cross-Listed Courses, Prerequisites
+ME540: Description, Units, Cross-Listed Courses, Prerequisites
+ME547: Description, Units, Cross-Listed Courses, Prerequisites
+ME548: Description, Units, Cross-Listed Courses, Prerequisites
+ME555: Description, Units, Cross-Listed Courses, Prerequisites
+ME557: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+ME559: Description, Units, Prerequisites
+ME561: Description, Units, Prerequisites
+ME562: Description, Units, Prerequisites
+ME563: Description, Units, Prerequisites
+ME564: Description, Units, Prerequisites, Special Consent Required to Drop
+ME566: Description, Units, Prerequisites, Special Consent Required to Drop
+ME567: Description, Units, Prerequisites
+ME571: Description, Units, Prerequisites
+ME572: Description, Units, Prerequisites
+ME573: Description, Units, Prerequisites
+ME574: Description, Units, Prerequisites
+ME595: Description, Units, Prerequisites
+ME596: Description, Units
+ME597: Description, Units
+ME598: Description, Units
+ME599: Description, Units, Prerequisites, Special Consent Required to Drop
+MUSIC100: Description, Units, Prerequisites, Special Consent Required to Drop
+MUSIC317: Description, Units, Prerequisites, Special Consent Required to Drop
+MUSIC327: Description, Units, Prerequisites
+MUSIC332: Description, Units, Prerequisites
+MUSIC333: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC335: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC355: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC361: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC362: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC363: Description, Units, Cross-Listed Courses, Prerequisites
+MUSIC364: Description, Units, Prerequisites
+MUSIC370: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+MUSIC371: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+MUSIC376: Description, Units, Notes, Special Course Grading, Prerequisites
+MUSIC380: Description, Units, Prerequisites
+MUSIC381: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+MUSIC390: Description, Units, Prerequisites
+MUSIC392: Description, Units, Prerequisites
+MUSIC416: Description, Units, Prerequisites
+MUSIC417: Description, Units, Prerequisites
+MUSIC426: Description, Units, Prerequisites
+MUSIC427: Description, Units, Prerequisites
+MUSIC428: Description, Units, Cross-Listed Courses
+MUSIC491: Description, Units, Prerequisites
+MUSIC492: Description, Units, Prerequisites
+NE307: Description, Units, Prerequisites, Antirequisites
+NE318: Description, Units, Prerequisites
+NE330L: Description, Units, Special Consent Required to Add
+NE332: Description, Units, Cross-Listed Courses, Prerequisites
+NE333: Description, Units, Prerequisites
+NE334: Description, Units, Prerequisites
+NE335: Description, Units, Prerequisites
+NE336: Description, Units, Prerequisites
+NE343: Description, Units, Prerequisites
+NE344: Description, Units, Prerequisites
+NE345: Description, Units, Prerequisites
+NE352: Description, Units, Prerequisites
+NE353: Description, Units, Prerequisites
+NE380L: Description, Units, Prerequisites
+NE381: Description, Units, Cross-Listed Courses
+NE408: Description, Units, Prerequisites
+NE409: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+NE451: Description, Units, Prerequisites, Special Consent Required to Drop
+NE452: Description, Units, Prerequisites, Special Consent Required to Drop
+NE453: Description, Units, Special Consent Required to Add
+NE454A: Description, Units, Notes
+NE454B: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+NE454C: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+NE454D: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+NE455A: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+NE455B: Description, Units, Prerequisites
+NE455C: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+NE455D: Description, Units, Notes, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+NE459: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+NE461: Description, Units, Cross-Listed Courses
+NE466: Description, Units, Prerequisites, Antirequisites
+NE471: Description, Units, Prerequisites, Special Consent Required to Drop
+NE476: Description, Units, Prerequisites
+NE481: Description, Units, Prerequisites, Special Consent Required to Drop
+NE486: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+NE487: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+NE488: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+NE491: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+NE496: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+OPTOM103: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+OPTOM104: Description, Units, Prerequisites
+OPTOM126: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+OPTOM134: Description, Units, Additional Fees, Prerequisites, Corequisites, Antirequisites, Special Consent Required to Add
+OPTOM150: Description, Units, Prerequisites, Antirequisites
+OPTOM152: Description, Units, Prerequisites
+OPTOM170: Description, Units, Prerequisites, Antirequisites
+OPTOM215: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+OPTOM216: Description, Units, Prerequisites, Antirequisites
+OPTOM219: Description, Units, Prerequisites, Special Consent Required to Drop
+OPTOM231: Description, Units, Prerequisites, Special Consent Required to Drop
+OPTOM243: Description, Units, Special Course Grading, Prerequisites
+OPTOM245: Description, Units, Prerequisites
+OPTOM245L: Description, Units, Prerequisites
+OPTOM246: Description, Units, Special Course Grading, Prerequisites
+OPTOM248: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+OPTOM252: Description, Units, Prerequisites, Antirequisites, Special Consent Required to Drop
+OPTOM252L: Description, Units, Special Course Grading, Prerequisites
+OPTOM255: Description, Units, Prerequisites
+OPTOM255L: Description, Units, Prerequisites
+OPTOM258: Description, Units, Prerequisites, Antirequisites
+OPTOM261: Description, Units, Cross-Listed Courses, Prerequisites
+OPTOM262: Description, Units, Special Course Grading, Prerequisites
+OPTOM272: Description, Units, Special Course Grading, Prerequisites
+OPTOM342A: Description, Units, Special Course Grading, Prerequisites
+OPTOM342B: Description, Units, Special Course Grading, Prerequisites
+OPTOM346: Description, Units, Special Course Grading, Prerequisites
+OPTOM347: Description, Units, Special Course Grading, Prerequisites
+OPTOM347L: Description, Units, Special Course Grading, Prerequisites
+OPTOM348A: Description, Units, Special Course Grading, Prerequisites, Antirequisites
+OPTOM348B: Description, Units, Prerequisites, Antirequisites
+OPTOM360: Description, Units, Prerequisites
+OPTOM365: Description, Units, Prerequisites
+OPTOM367: Description, Units, Prerequisites
+OPTOM375: Description, Units, Special Course Grading, Prerequisites
+OPTOM375L: Description, Units, Special Course Grading, Prerequisites
+OPTOM377: Description, Units, Cross-Listed Courses, Prerequisites
+OPTOM380: Description, Units, Cross-Listed Courses, Prerequisites
+OPTOM385: Description, Units, Special Course Grading, Prerequisites
+OPTOM387: Description, Units, Special Course Grading, Prerequisites
+OPTOM412: Description, Units, Special Course Grading, Prerequisites
+OPTOM441: Description, Units, Special Course Grading, Prerequisites
+OPTOM451: Description, Units, Prerequisites
+OPTOM458: Description, Units, Special Course Grading, Prerequisites, Corequisites
+OPTOM460: Description, Units, Special Course Grading, Prerequisites
+OPTOM461S: Description, Units, Special Course Grading, Prerequisites
+OPTOM468: Description, Units, Special Course Grading, Prerequisites
+OPTOM477: Description, Units, Special Course Grading, Prerequisites
+OPTOM478: Description, Units, Special Course Grading, Prerequisites
+OPTOM488: Description, Units, Special Course Grading, Prerequisites
+PACS101: Description, Units, Special Course Grading, Prerequisites
+PHARM110: Description, Units, Special Course Grading, Prerequisites
+PHARM111: Description, Units, Special Course Grading, Prerequisites
+PHARM151: Description, Units, Special Course Grading, Prerequisites
+PHARM222: Description, Units, Special Course Grading, Prerequisites
+PHARM223: Description, Units, Special Course Grading, Prerequisites
+PHARM224: Description, Units, Special Course Grading, Prerequisites
+PHARM226: Description, Units, Special Course Grading, Prerequisites
+PHARM228: Description, Units, Special Course Grading, Prerequisites
+PHARM229: Description, Units, Special Course Grading, Prerequisites
+PHARM230: Description, Units, Special Course Grading, Prerequisites
+PHARM232: Description, Units, Special Course Grading, Prerequisites
+PHARM290: Description, Units, Special Course Grading, Prerequisites
+PHARM320: Description, Units, Special Course Grading, Prerequisites
+PHARM321: Description, Units, Special Course Grading, Prerequisites
+PHARM323: Description, Units, Special Course Grading, Prerequisites
+PHARM324: Description, Units, Special Course Grading, Corequisites
+PHARM326: Description, Units
+PHARM329: Description, Units, Special Course Grading, Prerequisites
+PHARM330: Description, Units, Special Course Grading, Prerequisites
+PHARM352: Description, Units, Special Course Grading, Prerequisites
+PHARM353: Description, Units, Special Course Grading, Prerequisites
+PHARM361: Description, Units, Special Course Grading, Prerequisites
+PHARM362: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM363: Description, Units, Special Course Grading, Prerequisites
+PHARM364: Description, Units, Special Course Grading, Prerequisites
+PHARM366: Description, Units, Special Course Grading, Prerequisites
+PHARM367: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM368: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM370: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM372: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM373: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM374: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM375: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM376: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM377: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM378: Description, Units, Special Course Grading, Prerequisites
+PHARM379: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM380: Description, Units, Special Course Grading, Prerequisites
+PHARM391: Description, Units, Prerequisites
+PHARM392: Description, Units, Prerequisites
+PHARM400: Description, Units, Special Course Grading, Prerequisites
+PHARM401: Description, Units, Special Course Grading, Prerequisites
+PHARM422: Description, Units, Special Course Grading, Prerequisites
+PHARM425: Description, Units, Special Course Grading, Prerequisites
+PHARM430: Description, Units, Special Course Grading, Prerequisites
+PHARM440: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM450: Description, Units, Special Course Grading, Prerequisites
+PHARM460: Description, Units, Special Course Grading, Prerequisites
+PHARM461: Description, Units, Special Course Grading, Prerequisites
+PHARM462: Description, Units, Special Course Grading, Prerequisites
+PHARM464: Description, Units, Special Course Grading, Prerequisites
+PHARM465: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM466: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHARM467: Description, Units, Special Course Grading, Prerequisites
+PHARM469: Description, Units, Special Course Grading, Prerequisites
+PHARM472: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM473: Description, Units, Special Course Grading, Prerequisites
+PHARM474: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM475: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM476: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHARM491: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHIL207J: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHIL210J: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Drop
+PHIL211J: Description, Units, Special Course Grading, Prerequisites
+PHIL215: Description, Units, Special Course Grading, Prerequisites
+PHIL216: Description, Units, Special Course Grading, Prerequisites
+PHIL218J: Description, Units, Special Course Grading, Prerequisites
+PHIL219J: Description, Units, Special Course Grading, Prerequisites, Corequisites, Special Consent Required to Drop
+PHIL220J: Description, Units, Special Course Grading, Prerequisites
+PHIL221: Description, Units, Special Course Grading, Prerequisites
+PHIL224: Description, Units, Special Course Grading, Prerequisites
+PHIL226: Description, Units, Special Course Grading, Prerequisites
+PHIL227: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+PHIL228: Description, Units, Special Course Grading, Prerequisites
+PHIL230J: Description, Units, Special Course Grading, Prerequisites
+PHIL237: Description, Units, Special Course Grading, Prerequisites
+PHIL240: Description, Units, Special Course Grading, Prerequisites
+PHIL246: Description, Units, Special Course Grading, Prerequisites
+PHIL251: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+PHIL252: Description, Units, Special Course Grading, Prerequisites
+PHIL255: Description, Units, Special Course Grading, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+PHIL256: Description, Units, Special Course Grading, Prerequisites
+PHIL257: Description, Units, Special Course Grading, Prerequisites
+PHIL258: Description, Units, Special Course Grading, Prerequisites
+PHIL259: Description, Units, Special Course Grading, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add, Special Consent Required to Drop
+PHIL260: Description, Units
+PHIL262J: Description, Units
+PHIL265: Description, Units
+PHIL271: Description, Units
+PHIL283: Description, Units
+PHIL284: Description, Units
+PHIL285J: Description, Units
+PHIL286J: Description, Units
+PHIL290: Description, Units, Special Course Grading, Prerequisites
+PHIL291: Description, Units
+PHIL302: Description, Units, Special Course Grading, Prerequisites
+PHIL305J: Description, Units
+PHIL315: Description, Units, Antirequisites
+PHIL319J: Description, Units, Special Course Grading, Prerequisites
+PHIL320: Description, Units
+PHIL321J: Description, Units, Cross-Listed Courses, Antirequisites
+PHIL324: Description, Units, Cross-Listed Courses, Antirequisites
+PHIL326J: Description, Units, Cross-Listed Courses, Antirequisites
+PHIL327: Description, Units
+PHIL328: Description, Units, Prerequisites
+PHIL329: Description, Units
+PHIL331: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+PHIL340: Description, Units, Antirequisites
+PHIL350: Description, Units, Cross-Listed Courses, Antirequisites
+PHIL355: Description, Units
+PHIL356: Description, Units
+PHIL358: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHIL363: Description, Units
+PHIL371: Description, Units
+PHIL380: Description, Units
+PHIL382: Description, Units
+PHIL384: Description, Units
+PHIL386: Description, Units
+PHIL402: Description, Units
+PHIL403: Description, Units
+PHIL404: Description, Units
+PHIL405: Description, Units, Cross-Listed Courses, Prerequisites
+PHIL407: Description, Units
+PHIL416: Description, Units
+PHIL420: Description, Units
+PHIL422: Description, Units, Cross-Listed Courses, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+PHIL441: Description, Units, Cross-Listed Courses, Antirequisites
+PHIL447: Description, Units, Cross-Listed Courses, Prerequisites
+PHIL450J: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHIL451J: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHIL452: Description, Units
+PHIL455: Description, Units
+PHIL458: Description, Units, Cross-Listed Courses
+PHIL459: Description, Units, Cross-Listed Courses
+PHIL463: Description, Units
+PHIL471: Description, Units
+PHIL472: Description, Units
+PHIL481: Description, Units
+PHIL482: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHIL498: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS342: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS349: Description, Units, Prerequisites
+PHYS358: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term
+PHYS359: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS360A: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS360B: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS363: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS364: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS365: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS370L: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS375: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS380: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+PHYS383: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS391: Description, Units, Cross-Listed Courses, Prerequisites
+PHYS391L: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS393: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PHYS394: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS395: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS396: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS434: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS435: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS437A: Description, Units, Prerequisites, Antirequisites
+PHYS437B: Description, Units, Prerequisites
+PHYS442: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS444: Description, Units, Prerequisites
+PHYS449: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS454: Description, Units, Prerequisites
+PHYS460A: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS460B: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PHYS467: Description, Units, Cross-Listed Courses, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Antirequisites
+PHYS468: Description, Units, Cross-Listed Courses, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Antirequisites
+PHYS474: Description, Units, Cross-Listed Courses, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Antirequisites
+PHYS475: Description, Units, Notes, Prerequisites, Antirequisites
+PHYS476: Description, Units, Notes, Prerequisites, Antirequisites
+PHYS483: Description, Units, Notes, Prerequisites, Antirequisites
+PHYS484: Description, Units, Notes, Prerequisites, Antirequisites
+PHYS490: Description, Units, Notes, Prerequisites, Antirequisites
+PLAN100: Description, Units, Prerequisites
+PLAN102: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PLAN103: Description, Units, Prerequisites
+PLAN107: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PLAN133: Description, Units, Prerequisites
+PLAN202: Description, Units, Prerequisites
+PLAN205: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PLAN210: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PLAN211: Description, Units, Prerequisites
+PLAN233: Description, Units, Prerequisites
+PLAN240: Description, Units, Prerequisites
+PLAN246: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PLAN262: Description, Units, Prerequisites, Corequisites
+PLAN267: Description, Units, Prerequisites, Corequisites
+PLAN281: Description, Units, Additional Fees
+PLAN300: Description, Units, Prerequisites
+PLAN309: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN320: Description, Units, Prerequisites
+PLAN333: Description, Units, Prerequisites
+PLAN340: Description, Units, Prerequisites
+PLAN341: Description, Units, Prerequisites, Antirequisites
+PLAN346: Description, Units, Prerequisites, Antirequisites
+PLAN348: Description, Units, Prerequisites, Antirequisites
+PLAN349: Description, Units, Prerequisites, Antirequisites
+PLAN350: Description, Units, Prerequisites, Antirequisites
+PLAN351: Description, Units, Prerequisites, Antirequisites
+PLAN353: Description, Units, Prerequisites, Antirequisites
+PLAN358: Description, Units, Prerequisites
+PLAN375: Description, Units
+PLAN380: Description, Units, Additional Fees
+PLAN381: Description, Units, Prerequisites
+PLAN387: Description, Units, Prerequisites
+PLAN401: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN403: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN405: Description, Units, Prerequisites
+PLAN408: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN409: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN414: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PLAN415: Description, Units, Prerequisites
+PLAN416: Description, Units, Cross-Listed Courses
+PLAN417: Description, Units, Prerequisites
+PLAN418: Description, Units, Prerequisites, Antirequisites
+PLAN419: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN431: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN432: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN433: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN440: Description, Units, Prerequisites
+PLAN441: Description, Units, Additional Fees, Prerequisites
+PLAN442: Description, Units, Additional Fees, Prerequisites
+PLAN443: Description, Units, Additional Fees, Prerequisites
+PLAN445: Description, Units, Additional Fees, Prerequisites
+PLAN451: Description, Units, Additional Fees, Prerequisites
+PLAN452: Description, Units, Additional Fees, Prerequisites
+PLAN453: Description, Units, Additional Fees, Prerequisites
+PLAN468: Description, Units, Additional Fees, Prerequisites
+PLAN471: Description, Units, Additional Fees, Prerequisites
+PLAN474: Description, Units, Prerequisites, Antirequisites
+PLAN475: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN476: Description, Units, Additional Fees, Prerequisites, Special Consent Required to Add
+PLAN477: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN478: Description, Units, Cross-Listed Courses, Prerequisites
+PLAN480: Description, Units, Prerequisites, Antirequisites
+PLAN481: Description, Units, Prerequisites, Antirequisites
+PLAN483: Description, Units, Prerequisites, Antirequisites
+PLAN484: Description, Units, Prerequisites, Antirequisites
+PLAN485: Description, Units, Prerequisites, Antirequisites
+PLAN487: Description, Units, Prerequisites, Antirequisites
+PLAN490: Description, Units, Prerequisites
+PSCI100: Description, Units, Prerequisites, Antirequisites
+PSCI224: Description, Units, Prerequisites, Antirequisites
+PSCI228: Description, Units, Additional Fees, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Special Consent Required to Add
+PSCI250: Description, Units, Prerequisites, Antirequisites
+PSCI252: Description, Units, Prerequisites, Special Consent Required to Add
+PSCI253: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI255: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI257: Description, Units, Prerequisites
+PSCI259: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI260: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI264: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI277: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI281: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI282: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI283: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI284: Description, Units, Prerequisites
+PSCI290: Description, Units, Prerequisites
+PSCI299: Description, Units, Prerequisites
+PSCI300: Description, Units, Prerequisites
+PSCI301: Description, Units, Additional Fees, Prerequisites
+PSCI302: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI303: Description, Units, Prerequisites
+PSCI304: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI310: Description, Units, Prerequisites, Antirequisites
+PSCI314: Description, Units, Prerequisites
+PSCI315: Description, Units, Prerequisites, Antirequisites
+PSCI324: Description, Units, Prerequisites
+PSCI326: Description, Units, Prerequisites
+PSCI331: Description, Units, Prerequisites
+PSCI334: Description, Units, Prerequisites
+PSCI346: Description, Units, Prerequisites
+PSCI348: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI351: Description, Units, Prerequisites
+PSCI352: Description, Units, Prerequisites
+PSCI353: Description, Units, Prerequisites
+PSCI355: Description, Units, Prerequisites
+PSCI358: Description, Units, Prerequisites
+PSCI359: Description, Units, Prerequisites
+PSCI360: Description, Units, Prerequisites
+PSCI362: Description, Units, Prerequisites
+PSCI363: Description, Units, Prerequisites
+PSCI365: Description, Units, Prerequisites
+PSCI367: Description, Units, Prerequisites
+PSCI368: Description, Units, Prerequisites
+PSCI369: Description, Units, Prerequisites
+PSCI370: Description, Units, Prerequisites
+PSCI373: Description, Units, Prerequisites
+PSCI375: Description, Units, Prerequisites, Special Consent Required to Add
+PSCI380: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI382: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI384: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI385: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI387: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI389: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI390: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI391: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI400: Description, Units, Prerequisites
+PSCI403: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI404: Description, Units, Cross-Listed Courses, Prerequisites
+PSCI405: Description, Units, Prerequisites
+PSCI408: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI410: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI420: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI421: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI423: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI424: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI426: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI428: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI431: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI432: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI433: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI437: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI439: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI450: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI452: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI455: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI456: Description, Units, Prerequisites
+PSCI457: Description, Units, Prerequisites
+PSCI460: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI461: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI462: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI463: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI470: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI472: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI479: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI480: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI481: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI482: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI485: Description, Units, Prerequisites
+PSCI486: Description, Units, Prerequisites
+PSCI487: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSCI488: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+PSCI490: Description, Units, Prerequisites
+PSCI491: Description, Units, Prerequisites
+PSCI493: Description, Units, Cross-Listed Courses, Prerequisites, Antirequisites
+PSCI499A: Description, Units, Prerequisites
+PSCI499B: Description, Units, Prerequisites
+PSYCH101: Description, Units, Prerequisites
+PSYCH101R: Description, Units, Prerequisites
+PSYCH207: Description, Units, Prerequisites
+PSYCH211: Description, Units, Prerequisites
+PSYCH212: Description, Units, Prerequisites
+PSYCH212R: Description, Units, Prerequisites
+PSYCH213R: Description, Units, Prerequisites
+PSYCH218: Description, Units, Prerequisites
+PSYCH226R: Description, Units, Prerequisites
+PSYCH230: Description, Units, Prerequisites
+PSYCH231: Description, Units, Prerequisites
+PSYCH232: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Special Consent Required to Add
+PSYCH235: Description, Units, Prerequisites
+PSYCH236: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH238: Description, Units, Prerequisites
+PSYCH253: Description, Units, Prerequisites
+PSYCH253R: Description, Units, Prerequisites
+PSYCH256: Description, Units, Prerequisites
+PSYCH257: Description, Units, Prerequisites
+PSYCH257R: Description, Units, Prerequisites
+PSYCH261: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH264: Description, Units, Prerequisites
+PSYCH291: Description, Units, Prerequisites
+PSYCH292: Description, Units, Prerequisites
+PSYCH306: Description, Units, Prerequisites
+PSYCH307: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH308: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH310: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH312: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH312R: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH314: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH315: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH316: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH317: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH318: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH319: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH320: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH330: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH334R: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH335: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH336: Description, Units, Cross-Listed Courses, Prerequisites
+PSYCH337: Description, Units, Prerequisites, Antirequisites
+PSYCH339: Description, Units, Prerequisites
+PSYCH340: Description, Units, Prerequisites
+PSYCH342: Description, Units, Prerequisites
+PSYCH350: Description, Units, Prerequisites
+PSYCH352: Description, Units, Prerequisites
+PSYCH352R: Description, Units, Prerequisites
+PSYCH353: Description, Units, Prerequisites
+PSYCH354: Description, Units, Prerequisites
+PSYCH354R: Description, Units, Prerequisites
+PSYCH355: Description, Units, Prerequisites
+PSYCH356: Description, Units, Prerequisites
+PSYCH356R: Description, Units, Prerequisites
+PSYCH357: Description, Units, Prerequisites
+PSYCH361: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites
+PSYCH363: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH372: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH375R: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH380: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH389: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH390: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH391: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH392: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH393: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH394: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH395: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH396: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH397: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH398: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+PSYCH398R: Description, Units, Prerequisites
+PSYCH399: Description, Units, Prerequisites
+PSYCH399R: Description, Units, Prerequisites
+PSYCH417: Description, Units, Prerequisites
+PSYCH420: Description, Units, Prerequisites
+PSYCH439: Description, Units, Prerequisites
+PSYCH444R: Description, Units, Prerequisites
+PSYCH447: Description, Units, Prerequisites
+PSYCH448R: Description, Units, Prerequisites
+PSYCH450R: Description, Units, Prerequisites
+PSYCH451: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH453: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH454: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH455: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH457: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH458: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH459: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH461: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH462: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH463: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH464: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH465: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH466: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH467: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH470: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH480: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH481: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH482: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH483: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH484: Description, Units, Notes, Prerequisites, Antirequisites
+PSYCH485: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH486: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH487: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH490R: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH492: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH493: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH499A: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH499B: Description, Units, Prerequisites, Corequisites, Antirequisites
+PSYCH499C: Description, Units, Prerequisites, Corequisites, Antirequisites
+HLTH101: Description, Units, Prerequisites, Corequisites, Antirequisites
+HLTH220: Description, Units, Notes, Prerequisites, Corequisites, Special Consent Required to Add
+HLTH253: Description, Units, Prerequisites, Corequisites, Antirequisites
+HLTH260: Description, Units, Prerequisites
+HLTH273: Description, Units, Prerequisites
+HLTH284: Description, Units, Prerequisites
+HLTH290: Description, Units, Prerequisites
+HLTH301: Description, Units, Prerequisites
+HLTH303: Description, Units, Prerequisites
+HLTH304: Description, Units, Prerequisites
+HLTH310: Description, Units, Prerequisites
+HLTH333: Description, Units, Prerequisites
+HLTH335: Description, Units, Prerequisites
+HLTH340: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+HLTH341: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Corequisites
+HLTH344: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Corequisites
+HLTH350: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Corequisites
+HLTH352: Description, Units, Total Completions Allowed (Subject to Different Content), Allow Multiple Enrol in a Term, Prerequisites, Corequisites
+HLTH355: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH358: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH370: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH373: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH380: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH392: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH400: Description, Units, Cross-Listed Courses, Prerequisites
+HLTH401: Description, Units, Prerequisites, Corequisites, Antirequisites
+HLTH403: Description, Units, Prerequisites, Corequisites
+HLTH410: Description, Units, Prerequisites, Corequisites
+HLTH412: Description, Units, Notes, Prerequisites, Special Consent Required to Add
+HLTH420: Description, Units, Notes, Prerequisites, Special Consent Required to Add
